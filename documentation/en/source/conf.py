@@ -24,7 +24,7 @@ language = 'en'
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_theme = 'groundwork'
+html_theme = 'sphinx_pdj_theme'
 #html_static_path = ['_static']
 
 # sphinx-build E:\Art\3D\Dev\Pinpin\documentation\en\source E:\Art\3D\Dev\Pinpin\documentation\en\html E:\Art\3D\Dev\Pinpin\documentation\en\source\index.rst
