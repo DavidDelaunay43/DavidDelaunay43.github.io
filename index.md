@@ -1,4 +1,4 @@
-!(images/pinpin_image.png)
+![pinpin image](images/pinpin_image.png)
 
 # Pinpin 1.1.4 Documentation (en cours)
 
