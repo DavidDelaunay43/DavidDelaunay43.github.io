@@ -1,1 +1,0 @@
-# daviddelaunay43.github.io
